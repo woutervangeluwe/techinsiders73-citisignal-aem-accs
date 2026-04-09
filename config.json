@@ -2,6 +2,7 @@
   "public": {
     "default": {
       "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/7FzvX1t2eUZ4TYfHhG2hMH/graphql",
+      "commerce-assets-enabled": "true",
       "headers": {
         "all": {
           "Store": "default"
